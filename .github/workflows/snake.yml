@@ -19,6 +19,7 @@ jobs:
           github_user_name: a18-n03
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - name: push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

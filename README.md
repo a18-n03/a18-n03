@@ -1,55 +1,150 @@
 <div align="center">
 
-# anuj mhatre
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:00FF41,100:FFD700&height=230&section=header&text=A18-N03&fontSize=70&fontColor=FFFFFF&fontAlignY=45&desc=AI%20DEVELOPER%20//%20PHYSICS%20ENTHUSIAST%20//%20BUILDING%20DRACO%20R1&descAlignY=68&descSize=20&descColor=FF3131&animation=fadeIn" width="100%"/>
 
-**ai developer** · **physics enthusiast** · **building <span style="color:red">DracoR1</span>**
+<a href="https://github.com/a18-n03">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=700&color=00FF41&background=000000&center=true&vCenter=true&width=650&lines=%3E+BUILDING+DRACO+R1_;%3E+TRAINING+AI+AGENTS+TO+BROWSE_;%3E+DESIGNING+PCBs+IN+KICAD_;%3E+STATUS%3A+HIRE_ME%3D%3DTRUE_" alt="Typing SVG" />
+</a>
 
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=560&lines=AI+DEVELOPER;physics+enthusiast;python;javascript;building+DracoR1)]()
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=a18-n03&label=PROFILE+VIEWS&color=ff0000&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=followers&label=followers&color=ff0000&style=flat-square" alt="followers" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=public_repos&label=repos&color=000000&style=flat-square" alt="repos" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=public_gists&label=gists&color=ff0000&style=flat-square" alt="gists" />
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE-BRUTAL-000000?style=for-the-badge&labelColor=FFD700&color=00FF41" />
+  <img src="https://komarev.com/ghpvc/?username=a18-n03&style=for-the-badge&color=FF3131&labelColor=000000&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/a18-n03?style=for-the-badge&labelColor=000000&color=FFD700&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/a18-n03?style=for-the-badge&labelColor=000000&color=00FF41&label=STARS" />
+</p>
+
+---
+
+<div align="center">
+
+## ▓▓▓ WHO_AM_I.exe ▓▓▓
+
+</div>
+
+```ini
+[STATUS]
+role        = STUDENT
+job         = PART-TIME @ MIND SPACE, AIROLI, NAVI MUMBAI
+building    = DRACO R1 -> custom AI model, DeepSeek-inspired architecture
+hacking_on  = SKILLS FOR AI CODING AGENTS -> image gen, browsing tools+
+side_quest  = CUSTOM PCBs / STL / 3D FILES -> KiCad + Fusion 360
+goal        = SOFTWARE ENGINEER
+fun_fact    = LOADING... 
+```
+
+---
+
+<div align="center">
+
+## ▓▓▓ STACK.dll ▓▓▓
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF3131&labelColor=000000" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=000000" />
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000" />
+<br/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFD700&labelColor=000000" />
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=FF3131&labelColor=000000" />
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-000000?style=for-the-badge&logo=pytorch&logoColor=FF3131&labelColor=000000" />
+<br/>
+<img src="https://img.shields.io/badge/KICAD-000000?style=for-the-badge&logo=kicad&logoColor=FFD700&labelColor=000000" />
+<img src="https://img.shields.io/badge/FUSION%20360-000000?style=for-the-badge&logo=autodesk&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FF3131&labelColor=000000" />
 
 </div>
 
 ---
 
-<p align="center"><sub><b>status: online</b></sub></p>
-<p align="center">lowercase code. high-energy ideas. building intelligent things with physics, python, and javascript.</p>
-<p align="center">currently building <b>DracoR1</b> // a personal AI that speaks marathi // making systems move.</p>
+<div align="center">
+
+## ▓▓▓ PROJECTS.json ▓▓▓
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+**🧠 DRACO R1**
+<br>Own AI model — DeepSeek-inspired architecture. In progress, open-sourcing on completion.
+<br><img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FFD700?style=flat-square&labelColor=000000"/>
+
+</td>
+<td>
+
+**🤖 AI AGENT SKILLS**
+<br>Building skills for AI coding agents — image generation, browsing tools & more.
+<br><img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=flat-square&labelColor=000000"/>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**☁️ ALTERACLOUD**
+<br><a href="https://alteracloud.space">alteracloud.space</a> — notes & docs hub for college friends.
+<br><img src="https://img.shields.io/badge/STATUS-LIVE-00FF41?style=flat-square&labelColor=000000"/>
+
+</td>
+<td>
+
+**📝 LIKHARI AI**
+<br>AI-powered add-on for MS Word, pushed to its full potential.
+<br><img src="https://img.shields.io/badge/STATUS-ACTIVE-FF3131?style=flat-square&labelColor=000000"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center"><sub><b>stats</b></sub></p>
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a18-n03&theme=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=a18-n03&background=FFFFFF&border=000000&stroke=000000&ring=FF0000&fire=FF0000&currStreakNum=000000&sideNums=000000&currStreakLabel=FF0000&sideLabels=000000&dates=000000" alt="GitHub streak" />
-</p>
-<p align="center"><img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a18-n03&theme=github" alt="Top languages" /></p>
+<div align="center">
+
+## ▓▓▓ STATS.exe ▓▓▓
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a18-n03&theme=github_dark" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a18-n03&theme=dark&hide_border=false&border=FFD700&background=000000&stroke=FF3131&ring=00FF41&fire=FFD700&currStreakLabel=00FF41&border_radius=0" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a18-n03&theme=github_dark" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a18-n03&theme=github_dark" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=a18-n03&bg_color=000000&color=FFD700&line=00FF41&point=FF3131&area=true&hide_border=false&border_color=FFD700" width="100%"/>
+
+</div>
 
 ---
 
-<p align="center"><sub><b>the stack</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ff0000&labelColor=000000" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=ff0000&labelColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=ff0000&labelColor=000000" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=ff0000&labelColor=000000" alt="C" />
-  <img src="https://img.shields.io/badge/c%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=ff0000&labelColor=000000" alt="C++" />
-  <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=ff0000&labelColor=000000" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=ff0000&labelColor=000000" alt="CSS3" />
-  <img src="https://img.shields.io/badge/ai%2Fml-000000?style=for-the-badge&logo=tensorflow&logoColor=ff0000&labelColor=000000" alt="AI/ML" />
-</p>
+<div align="center">
+
+## ▓▓▓ SNAKE.gif ▓▓▓
+
+<img src="https://raw.githubusercontent.com/a18-n03/a18-n03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
 
 ---
 
-<p align="center"><sub><b>my graph</b></sub></p>
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=a18-n03&bg_color=ffffff&color=000000&line=ff0000&point=ff0000&area=true&area_color=ff0000&hide_border=false&border_color=000000" alt="GitHub activity graph" /></p>
-<p align="center"><img src="https://raw.githubusercontent.com/a18-n03/a18-n03/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" /></p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a18-n03&theme=github" alt="contribution chart" /></p>
+<div align="center">
 
----
+## ▓▓▓ CONTACT.sh ▓▓▓
 
-<p align="center"><sub>sheet 01 // <b>a18-n03</b> // end of transmission</sub></p>
-<p align="center"><sub>drawn with ♥ // red ink on paper // physics is the framework</sub></p>
+*LinkedIn / portfolio / email — dropping soon*
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:FFD700,50:00FF41,100:000000&height=110&section=footer"/>
+
+**`root@a18-n03:~$`** *building loud, shipping louder.*
+
+</div>
