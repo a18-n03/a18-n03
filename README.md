@@ -72,7 +72,7 @@ fun_fact    = LOADING...
 <tr>
 <td>
 
-**🧠 DRACO R1**
+**🧠 [DRACO R1](https://github.com/a18-n03/draco-r1)**
 <br>Own AI model — DeepSeek-inspired architecture. In progress, open-sourcing on completion.
 <br><img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FFD700?style=flat-square&labelColor=000000"/>
 
