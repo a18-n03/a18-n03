@@ -43,7 +43,7 @@
 <p align="center"><sub><b>my graph</b></sub></p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=a18-n03&bg_color=ffffff&color=000000&line=ff0000&point=ff0000&area=true&area_color=ff0000&hide_border=false&border_color=000000" alt="GitHub activity graph" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/a18-n03/a18-n03/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" /></p>
-<p align="center"><img src="https://github-contributions.vercel.app/api/v1/a18-n03?format=svg&dark=false" alt="3D contributions" /></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a18-n03&theme=github" alt="contribution chart" /></p>
 
 ---
 
