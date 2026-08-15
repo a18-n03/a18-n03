@@ -1,26 +1,24 @@
-<p align="center"><img src="./id-card.svg" width="320" alt="Anuj Mhatre ID card" /></p>
+<p align="center"><img src="./schematic.svg" width="680" alt="DracoLab technical schematic" /></p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=560&lines=AI+DEVELOPER;physics+enthusiast;python;javascript;building+DracoR1" alt="typing animation" /></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=a18-n03&label=PROFILE+VIEWS&color=ff0000&style=flat-square" alt="profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a18-n03&label=PROFILE+VIEWS&color=ff0000&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=followers&label=followers&color=ff0000&style=flat-square" alt="followers" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=public_repos&label=repos&color=000000&style=flat-square" alt="repos" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=public_gists&label=gists&color=ff0000&style=flat-square" alt="gists" /></p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=public_gists&label=gists&color=ff0000&style=flat-square" alt="gists" />
+</p>
 
 ---
 
-<p align="center"><sub><b>hi, i'm anuj</b></sub></p>
+<p align="center"><sub><b>status: online</b></sub></p>
 <p align="center">lowercase code. high-energy ideas. building intelligent things with physics, python, and javascript.</p>
-<p align="center">currently building <b>DracoR1</b> // experimenting with ai // making systems move.</p>
-
----
-
-<p align="center"><img src="./terminal.svg" width="560" alt="terminal" /></p>
+<p align="center">currently building <b>DracoR1</b> // a personal AI that speaks marathi // making systems move.</p>
 
 ---
 
 <p align="center"><sub><b>stats</b></sub></p>
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a18-n03&theme=github" alt="Anuj's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=a18-n03&background=FFFFFF&border=000000&stroke=000000&ring=FF0000&fire=FF0000&currStreakNum=000000&sideNums=000000&currStreakLabel=FF0000&sideLabels=000000&dates=000000" alt="Anuj's GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a18-n03&theme=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=a18-n03&background=FFFFFF&border=000000&stroke=000000&ring=FF0000&fire=FF0000&currStreakNum=000000&sideNums=000000&currStreakLabel=FF0000&sideLabels=000000&dates=000000" alt="GitHub streak" />
 </p>
 <p align="center"><img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a18-n03&theme=github" alt="Top languages" /></p>
 
@@ -47,5 +45,5 @@
 
 ---
 
-<p align="center"><sub>end of transmission // <b>a18-n03</b></sub></p>
-<p align="center"><sub>built with ♥ // lowercase everything // red is the new black</sub></p>
+<p align="center"><sub>sheet 01 // <b>a18-n03</b> // end of transmission</sub></p>
+<p align="center"><sub>drawn with ♥ // red ink on paper // physics is the framework</sub></p>
