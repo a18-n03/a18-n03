@@ -12,10 +12,10 @@
 
 <p align="center"><sub><b>stats</b></sub></p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=a18-n03&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=ff0000&title_color=ff0000&border_color=000000&hide_border=false" alt="Anuj's GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a18-n03&theme=github" alt="Anuj's GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=a18-n03&background=FFFFFF&border=000000&stroke=000000&ring=FF0000&fire=FF0000&currStreakNum=000000&sideNums=000000&currStreakLabel=FF0000&sideLabels=000000&dates=000000" alt="Anuj's GitHub streak" />
 </p>
-<p align="center"><img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a18-n03&layout=compact&langs_count=6&bg_color=ffffff&text_color=000000&icon_color=ff0000&title_color=ff0000&border_color=000000&hide_border=false" alt="Top languages" /></p>
+<p align="center"><img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=a18-n03&theme=github" alt="Top languages" /></p>
 
 ---
 
