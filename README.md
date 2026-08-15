@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/210357795?v=4&size=300" width="160" style="border-radius:50%" alt="a18-n03 avatar" />
+<img src="./avatar.svg" width="160" alt="a18-n03 avatar" />
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:00FF41,100:FFD700&height=230&section=header&text=A18-N03&fontSize=70&fontColor=FFFFFF&fontAlignY=45&desc=AI%20DEVELOPER%20//%20PHYSICS%20ENTHUSIAST%20//%20BUILDING%20DRACO%20R1&descAlignY=68&descSize=20&descColor=FF3131&animation=fadeIn" width="100%"/>
 
