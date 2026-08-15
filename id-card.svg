@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 600" width="400" height="600" role="img" aria-labelledby="title desc">
+  <title id="title">brat aesthetic AI developer ID card</title>
+  <desc id="desc">Anuj Mhatre ID badge hanging from a swinging lanyard with animated atom electrons.</desc>
+  <defs>
+    <path id="orbit-one" d="M 200 360 m -42 0 a 42 16 0 1 0 84 0 a 42 16 0 1 0 -84 0" fill="none"/>
+    <path id="orbit-two" d="M 200 360 m -42 0 a 42 16 0 1 0 84 0 a 42 16 0 1 0 -84 0" fill="none" transform="rotate(60 200 360)"/>
+    <path id="orbit-three" d="M 200 360 m -42 0 a 42 16 0 1 0 84 0 a 42 16 0 1 0 -84 0" fill="none" transform="rotate(120 200 360)"/>
+  </defs>
+
+  <!-- fixed lanyard -->
+  <path d="M 112 0 L 196 105 M 288 0 L 204 105" fill="none" stroke="#000000" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 112 0 L 196 105 M 288 0 L 204 105" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="200" cy="106" r="11" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="200" cy="106" r="4" fill="#000000"/>
+
+  <!-- the badge swings around the lanyard anchor -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-4 200 106;4 200 106;-4 200 106" keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" calcMode="spline" dur="4.6s" repeatCount="indefinite"/>
+    <path d="M 200 106 L 200 126" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+    <rect x="88" y="122" width="224" height="400" rx="18" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+    <rect x="90" y="124" width="220" height="60" rx="16" fill="#ff0000"/>
+    <path d="M 90 168 H 310 V 184 H 90 Z" fill="#ff0000"/>
+    <circle cx="200" cy="128" r="8" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+    <text x="108" y="152" fill="#000000" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1.5">BRAT / ACCESS PASS</text>
+
+    <!-- photo placeholder -->
+    <rect x="108" y="205" width="100" height="108" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+    <circle cx="158" cy="241" r="17" fill="none" stroke="#000000" stroke-width="3"/>
+    <path d="M 126 296 C 128 267 142 258 158 258 C 174 258 188 267 190 296" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 119 303 H 197" stroke="#000000" stroke-width="2"/>
+
+    <text x="223" y="224" fill="#000000" font-family="monospace" font-size="10" font-weight="bold" letter-spacing="1">HUMAN / 0000</text>
+    <text x="223" y="258" fill="#000000" font-family="Arial, sans-serif" font-size="25" font-weight="900">ANUJ</text>
+    <text x="223" y="284" fill="#000000" font-family="Arial, sans-serif" font-size="25" font-weight="900">MHATRE</text>
+    <text x="223" y="304" fill="#ff0000" font-family="monospace" font-size="12" font-weight="bold" letter-spacing=".5">AI DEVELOPER</text>
+
+    <!-- atom: the orbits are fixed and each red electron follows its own ellipse -->
+    <use href="#orbit-one" xlink:href="#orbit-one" stroke="#000000" stroke-width="2"/>
+    <use href="#orbit-two" xlink:href="#orbit-two" stroke="#000000" stroke-width="2"/>
+    <use href="#orbit-three" xlink:href="#orbit-three" stroke="#000000" stroke-width="2"/>
+    <circle cx="200" cy="360" r="8" fill="#000000"/>
+    <circle r="5" fill="#ff0000">
+      <animateMotion dur="3s" repeatCount="indefinite" rotate="auto"><mpath href="#orbit-one" xlink:href="#orbit-one"/></animateMotion>
+    </circle>
+    <circle r="5" fill="#ff0000">
+      <animateMotion dur="4s" begin="-1.2s" repeatCount="indefinite" rotate="auto"><mpath href="#orbit-two" xlink:href="#orbit-two"/></animateMotion>
+    </circle>
+    <circle r="5" fill="#ff0000">
+      <animateMotion dur="5s" begin="-2.6s" repeatCount="indefinite" rotate="auto"><mpath href="#orbit-three" xlink:href="#orbit-three"/></animateMotion>
+    </circle>
+    <text x="200" y="421" fill="#000000" text-anchor="middle" font-family="monospace" font-size="9" font-weight="bold" letter-spacing="2">SYNTHETIC INTELLIGENCE</text>
+
+    <!-- decorative barcode -->
+    <g fill="#000000">
+      <rect x="108" y="447" width="3" height="46"/><rect x="114" y="447" width="1" height="46"/><rect x="118" y="447" width="5" height="46"/><rect x="126" y="447" width="2" height="46"/>
+      <rect x="132" y="447" width="7" height="46"/><rect x="142" y="447" width="2" height="46"/><rect x="147" y="447" width="4" height="46"/><rect x="154" y="447" width="1" height="46"/>
+      <rect x="158" y="447" width="6" height="46"/><rect x="168" y="447" width="3" height="46"/><rect x="174" y="447" width="2" height="46"/><rect x="180" y="447" width="8" height="46"/>
+      <rect x="191" y="447" width="1" height="46"/><rect x="195" y="447" width="5" height="46"/><rect x="203" y="447" width="2" height="46"/><rect x="208" y="447" width="7" height="46"/>
+      <rect x="219" y="447" width="3" height="46"/><rect x="225" y="447" width="1" height="46"/><rect x="229" y="447" width="6" height="46"/><rect x="238" y="447" width="2" height="46"/>
+      <rect x="244" y="447" width="4" height="46"/><rect x="251" y="447" width="7" height="46"/><rect x="261" y="447" width="2" height="46"/><rect x="267" y="447" width="5" height="46"/>
+      <rect x="275" y="447" width="1" height="46"/><rect x="279" y="447" width="6" height="46"/><rect x="288" y="447" width="3" height="46"/>
+    </g>
+    <text x="200" y="508" fill="#000000" text-anchor="middle" font-family="monospace" font-size="8" font-weight="bold" letter-spacing="3">0000  ANJ  2026</text>
+  </g>
+</svg>
