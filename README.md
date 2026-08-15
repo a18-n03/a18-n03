@@ -1,12 +1,19 @@
 <p align="center"><img src="./id-card.svg" width="320" alt="Anuj Mhatre ID card" /></p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=560&lines=AI+DEVELOPER;physics+enthusiast;python;javascript;building+DracoR1" alt="typing animation" /></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=a18-n03&label=PROFILE+VIEWS&color=ff0000&style=flat-square" alt="profile views" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=a18-n03&label=PROFILE+VIEWS&color=ff0000&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=followers&label=followers&color=ff0000&style=flat-square" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=public_repos&label=repos&color=000000&style=flat-square" alt="repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=public_gists&label=gists&color=ff0000&style=flat-square" alt="gists" /></p>
 
 ---
 
 <p align="center"><sub><b>hi, i'm anuj</b></sub></p>
 <p align="center">lowercase code. high-energy ideas. building intelligent things with physics, python, and javascript.</p>
 <p align="center">currently building <b>DracoR1</b> // experimenting with ai // making systems move.</p>
+
+---
+
+<p align="center"><img src="./terminal.svg" width="560" alt="terminal" /></p>
 
 ---
 
@@ -36,3 +43,9 @@
 <p align="center"><sub><b>my graph</b></sub></p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=a18-n03&bg_color=ffffff&color=000000&line=ff0000&point=ff0000&area=true&area_color=ff0000&hide_border=false&border_color=000000" alt="GitHub activity graph" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/a18-n03/a18-n03/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" /></p>
+<p align="center"><img src="https://github-contributions.vercel.app/api/v1/a18-n03?format=svg&dark=false" alt="3D contributions" /></p>
+
+---
+
+<p align="center"><sub>end of transmission // <b>a18-n03</b></sub></p>
+<p align="center"><sub>built with ♥ // lowercase everything // red is the new black</sub></p>
