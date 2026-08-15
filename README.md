@@ -108,7 +108,7 @@ fun_fact    = LOADING...
 ## ▓▓▓ STATS.exe ▓▓▓
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a18-n03&theme=github_dark" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a18-n03&theme=dark&hide_border=false&border=FFD700&background=000000&stroke=FF3131&ring=00FF41&fire=FFD700&currStreakLabel=00FF41&border_radius=0" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a18-n03&theme=github_dark" height="170"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a18-n03&theme=github_dark" height="170"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a18-n03&theme=github_dark" width="100%"/>
