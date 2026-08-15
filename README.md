@@ -1,11 +1,17 @@
-<p align="center"><img src="./schematic.svg" width="680" alt="DracoLab technical schematic" /></p>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=560&lines=AI+DEVELOPER;physics+enthusiast;python;javascript;building+DracoR1" alt="typing animation" /></p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a18-n03&label=PROFILE+VIEWS&color=ff0000&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=followers&label=followers&color=ff0000&style=flat-square" alt="followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=public_repos&label=repos&color=000000&style=flat-square" alt="repos" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=public_gists&label=gists&color=ff0000&style=flat-square" alt="gists" />
-</p>
+<div align="center">
+
+# anuj mhatre
+
+**ai developer** · **physics enthusiast** · **building <span style="color:red">DracoR1</span>**
+
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=560&lines=AI+DEVELOPER;physics+enthusiast;python;javascript;building+DracoR1)]()
+
+<img src="https://komarev.com/ghpvc/?username=a18-n03&label=PROFILE+VIEWS&color=ff0000&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=followers&label=followers&color=ff0000&style=flat-square" alt="followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=public_repos&label=repos&color=000000&style=flat-square" alt="repos" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa18-n03&query=public_gists&label=gists&color=ff0000&style=flat-square" alt="gists" />
+
+</div>
 
 ---
 
