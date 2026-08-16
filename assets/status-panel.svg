@@ -1,0 +1,63 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <!-- card -->
+  <rect x="6" y="6" width="1188" height="348" fill="#0D0D0D" stroke="#FFE900" stroke-width="6"/>
+
+  <!-- header -->
+  <text x="40" y="55" font-family="'Courier New', monospace" font-size="26" font-weight="800" fill="#FAF7F0" letter-spacing="1">PLAYER_01 :: ANUJ_MHATRE</text>
+  <text x="40" y="80" font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#FAF7F0" fill-opacity="0.65" letter-spacing="0.5">CLASS &#187; FULL-STACK / AI-ML HYBRID BUILD</text>
+
+  <!-- level chip -->
+  <rect x="1000" y="28" width="140" height="40" fill="#FFE900"/>
+  <text x="1070" y="54" text-anchor="middle" font-family="'Courier New', monospace" font-size="18" font-weight="800" fill="#0D0D0D" letter-spacing="1">LVL 99</text>
+
+  <!-- divider -->
+  <rect x="40" y="96" width="1120" height="3" fill="#FAF7F0" fill-opacity="0.25"/>
+
+  <!-- stat rows -->
+  <!-- row template: label + track + fill + % -->
+
+  <!-- FRONTEND 92% yellow -->
+  <text x="40" y="146" font-family="'Courier New', monospace" font-size="14" font-weight="800" fill="#FAF7F0" letter-spacing="1">FRONTEND</text>
+  <rect x="300" y="130" width="680" height="22" fill="#1A1A1A" stroke="#FAF7F0" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="300" y="130" width="625.6" height="22" fill="#FFE900"/>
+  <rect x="470" y="130" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <rect x="640" y="130" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <rect x="810" y="130" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <text x="1000" y="146" font-family="'Courier New', monospace" font-size="14" font-weight="800" fill="#FFE900">92%</text>
+
+  <!-- BACKEND / CLOUD 85% blue -->
+  <text x="40" y="188" font-family="'Courier New', monospace" font-size="14" font-weight="800" fill="#FAF7F0" letter-spacing="1">BACKEND / CLOUD</text>
+  <rect x="300" y="172" width="680" height="22" fill="#1A1A1A" stroke="#FAF7F0" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="300" y="172" width="578" height="22" fill="#3D5AFE"/>
+  <rect x="470" y="172" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <rect x="640" y="172" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <rect x="810" y="172" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <text x="1000" y="188" font-family="'Courier New', monospace" font-size="14" font-weight="800" fill="#3D5AFE">85%</text>
+
+  <!-- AI / ML 78% pink -->
+  <text x="40" y="230" font-family="'Courier New', monospace" font-size="14" font-weight="800" fill="#FAF7F0" letter-spacing="1">AI / ML</text>
+  <rect x="300" y="214" width="680" height="22" fill="#1A1A1A" stroke="#FAF7F0" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="300" y="214" width="530.4" height="22" fill="#FF3EA5"/>
+  <rect x="470" y="214" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <rect x="640" y="214" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <rect x="810" y="214" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <text x="1000" y="230" font-family="'Courier New', monospace" font-size="14" font-weight="800" fill="#FF3EA5">78%</text>
+
+  <!-- HARDWARE 62% green -->
+  <text x="40" y="272" font-family="'Courier New', monospace" font-size="14" font-weight="800" fill="#FAF7F0" letter-spacing="1">HARDWARE</text>
+  <rect x="300" y="256" width="680" height="22" fill="#1A1A1A" stroke="#FAF7F0" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="300" y="256" width="421.6" height="22" fill="#00FF85"/>
+  <rect x="470" y="256" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <rect x="640" y="256" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <rect x="810" y="256" width="1" height="22" fill="#FAF7F0" fill-opacity="0.3"/>
+  <text x="1000" y="272" font-family="'Courier New', monospace" font-size="14" font-weight="800" fill="#00FF85">62%</text>
+
+  <!-- DSA (GRINDING) 68% paper -->
+  <text x="40" y="314" font-family="'Courier New', monospace" font-size="14" font-weight="800" fill="#FAF7F0" letter-spacing="1">DSA (GRINDING)</text>
+  <rect x="300" y="298" width="680" height="22" fill="#1A1A1A" stroke="#FAF7F0" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="300" y="298" width="462.4" height="22" fill="#FAF7F0"/>
+  <rect x="470" y="298" width="1" height="22" fill="#0D0D0D" fill-opacity="0.4"/>
+  <rect x="640" y="298" width="1" height="22" fill="#0D0D0D" fill-opacity="0.4"/>
+  <rect x="810" y="298" width="1" height="22" fill="#0D0D0D" fill-opacity="0.4"/>
+  <text x="1000" y="314" font-family="'Courier New', monospace" font-size="14" font-weight="800" fill="#FAF7F0">68%</text>
+</svg>

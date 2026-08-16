@@ -1,0 +1,66 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="hazard" width="28" height="28" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="28" height="28" fill="#FFE900"/>
+      <rect width="14" height="28" fill="#0D0D0D"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="320" fill="#0D0D0D"/>
+
+  <!-- hazard stripes -->
+  <rect x="0" y="0" width="1200" height="14" fill="url(#hazard)"/>
+  <rect x="0" y="306" width="1200" height="14" fill="url(#hazard)"/>
+
+  <!-- sticker: AI / ML (top left) -->
+  <g transform="translate(155,58) rotate(-9)">
+    <rect x="-84" y="-27" width="210" height="52" fill="#0D0D0D" transform="translate(6,6)"/>
+    <rect x="-84" y="-27" width="210" height="52" fill="#FFE900" stroke="#0D0D0D" stroke-width="4"/>
+    <text x="21" y="7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="900" fill="#0D0D0D" letter-spacing="1">AI / ML</text>
+  </g>
+
+  <!-- sticker: LVL 99 GAMER (top right) -->
+  <g transform="translate(1045,58) rotate(8)">
+    <rect x="-95" y="-27" width="210" height="52" fill="#0D0D0D" transform="translate(6,6)"/>
+    <rect x="-95" y="-27" width="210" height="52" fill="#3D5AFE" stroke="#0D0D0D" stroke-width="4"/>
+    <text x="10" y="7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="900" fill="#FAF7F0" letter-spacing="1">LVL 99 GAMER</text>
+  </g>
+
+  <!-- sticker: HARDWARE HACKER (bottom left) -->
+  <g transform="translate(160,264) rotate(7)">
+    <rect x="-100" y="-27" width="220" height="52" fill="#0D0D0D" transform="translate(6,6)"/>
+    <rect x="-100" y="-27" width="220" height="52" fill="#00FF85" stroke="#0D0D0D" stroke-width="4"/>
+    <text x="10" y="7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#0D0D0D" letter-spacing="1">HARDWARE HACKER</text>
+  </g>
+
+  <!-- sticker: ONE PIECE FAN (bottom right) -->
+  <g transform="translate(1040,264) rotate(-8)">
+    <rect x="-95" y="-27" width="210" height="52" fill="#0D0D0D" transform="translate(6,6)"/>
+    <rect x="-95" y="-27" width="210" height="52" fill="#FF3EA5" stroke="#0D0D0D" stroke-width="4"/>
+    <text x="10" y="7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#FAF7F0" letter-spacing="1">ONE PIECE FAN</text>
+  </g>
+
+  <!-- main plate shadow -->
+  <rect x="258" y="78" width="684" height="150" fill="#0D0D0D"/>
+  <!-- main plate -->
+  <rect x="248" y="68" width="684" height="150" fill="#FAF7F0" stroke="#0D0D0D" stroke-width="6"/>
+
+  <!-- eyebrow -->
+  <text x="278" y="98" font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#FF3EA5" letter-spacing="1">// PROFILE.README</text>
+
+  <!-- name -->
+  <text x="590" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="900" fill="#0D0D0D" letter-spacing="1">ANUJ MHATRE</text>
+
+  <!-- underline -->
+  <rect x="330" y="163" width="520" height="9" fill="#FF3EA5"/>
+
+  <!-- subtitle -->
+  <text x="590" y="200" text-anchor="middle" font-family="'Courier New', monospace" font-size="17" font-weight="700" fill="#0D0D0D" letter-spacing="0.5">FULL-STACK DEV // AI-ML ENGINEER IN TRAINING</text>
+
+  <!-- small location/batch chip, fills the dead space under the plate -->
+  <g transform="translate(590,258)">
+    <rect x="-140" y="-16" width="280" height="32" fill="#0D0D0D" stroke="#FAF7F0" stroke-width="2.5"/>
+    <text x="0" y="6" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" font-weight="700" fill="#FAF7F0" letter-spacing="1">CSMU &#39;27 · NAVI MUMBAI, IN</text>
+  </g>
+</svg>

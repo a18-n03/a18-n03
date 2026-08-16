@@ -1,152 +1,136 @@
-<div align="center">
-
-<img src="./avatar.svg" width="160" alt="a18-n03 avatar" />
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:00FF41,100:FFD700&height=230&section=header&text=A18-N03&fontSize=70&fontColor=FFFFFF&fontAlignY=45&desc=AI%20DEVELOPER%20//%20PHYSICS%20ENTHUSIAST%20//%20BUILDING%20DRACO%20R1&descAlignY=68&descSize=20&descColor=FF3131&animation=fadeIn" width="100%"/>
-
-<a href="https://github.com/a18-n03">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=700&color=00FF41&background=000000&center=true&vCenter=true&width=650&lines=%3E+BUILDING+DRACO+R1_;%3E+TRAINING+AI+AGENTS+TO+BROWSE_;%3E+DESIGNING+PCBs+IN+KICAD_;%3E+STATUS%3A+HIRE_ME%3D%3DTRUE_" alt="Typing SVG" />
-</a>
-
-</div>
-
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILE-BRUTAL-000000?style=for-the-badge&labelColor=FFD700&color=00FF41" />
-  <img src="https://komarev.com/ghpvc/?username=a18-n03&style=for-the-badge&color=FF3131&labelColor=000000&label=VIEWS" />
-  <img src="https://img.shields.io/github/followers/a18-n03?style=for-the-badge&labelColor=000000&color=FFD700&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/a18-n03?style=for-the-badge&labelColor=000000&color=00FF41&label=STARS" />
+  <img src="./avatar.svg" width="140" alt="a18-n03 avatar" />
 </p>
 
----
+<p align="center">
+  <img src="./assets/banner.svg" alt="Anuj Mhatre — Full-Stack Developer & AI/ML Engineer" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=800&size=22&pause=1200&color=FFE900&background=0D0D0DFF&center=true&vCenter=true&width=800&height=50&lines=AI+%26+ML+Developer;Fine-Tuning+LLMs+on+Colab;Routing+a+Custom+Mechanical+Macropad;Building+DracoR1+%2F%2F+a+Personal+AI;One+Piece+Fan+%2F%2F+Shipping+Nonstop" alt="Typing SVG" />
+</p>
 
-## ▓▓▓ WHO_AM_I.exe ▓▓▓
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE-BRUTAL-000000?style=for-the-badge&labelColor=FFE900&color=00FF41" />
+  <img src="https://komarev.com/ghpvc/?username=a18-n03&style=for-the-badge&color=FF3EA5&labelColor=0D0D0D&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/a18-n03?style=for-the-badge&labelColor=0D0D0D&color=FFE900&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/a18-n03?style=for-the-badge&labelColor=0D0D0D&color=00FF41&label=STARS" />
+</p>
 
-</div>
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" height="18" /></p>
 
-```ini
-[STATUS]
-role        = STUDENT
-job         = PART-TIME @ MIND SPACE, AIROLI, NAVI MUMBAI
-building    = DRACO R1 -> custom AI model, DeepSeek-inspired architecture
-hacking_on  = SKILLS FOR AI CODING AGENTS -> image gen, browsing tools+
-side_quest  = CUSTOM PCBs / STL / 3D FILES -> KiCad + Fusion 360
-goal        = SOFTWARE ENGINEER
-fun_fact    = LOADING... 
+### &gt;_ whoami
+
+```bash
+anuj@navi-mumbai:~$ whoami
+> BTech CSE (AI & ML) @ CSMU — second year
+> Part-time @ Mind Space, Airoli, Navi Mumbai
+> Full-stack dev: React · Vite · TypeScript · Node.js · Express · Supabase · Firebase
+> Fine-tuned DeepSeek-R1-Distill-Qwen-7B -> DracoR1 (Unsloth + QLoRA, Colab T4)
+> Right now: routing a 4x4 mechanical macropad PCB & grinding DSA in C++
+> Side quests: Minecraft modding, BGMI, One Piece
+> End goal: ship into a top AI company
+anuj@navi-mumbai:~$ _
 ```
 
----
+<p align="center">
+  <img src="./assets/status-panel.svg" alt="Skill status panel" width="100%" />
+</p>
 
-<div align="center">
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" height="18" /></p>
 
-## ▓▓▓ STACK.dll ▓▓▓
+### ⚡ tech stack
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF3131&labelColor=000000" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=000000" />
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000" />
-<br/>
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFD700&labelColor=000000" />
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=FF3131&labelColor=000000" />
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-000000?style=for-the-badge&logo=pytorch&logoColor=FF3131&labelColor=000000" />
-<br/>
-<img src="https://img.shields.io/badge/KICAD-000000?style=for-the-badge&logo=kicad&logoColor=FFD700&labelColor=000000" />
-<img src="https://img.shields.io/badge/FUSION%20360-000000?style=for-the-badge&logo=autodesk&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FF3131&labelColor=000000" />
+**Frontend**
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-FFE900?style=for-the-badge&logo=react&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Vite-FFE900?style=for-the-badge&logo=vite&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/TypeScript-FFE900?style=for-the-badge&logo=typescript&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Javascript-FFE900?style=for-the-badge&logo=javascript&logoColor=0D0D0D" />
+</p>
 
----
+**Backend & Cloud**
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-3D5AFE?style=for-the-badge&logo=nodedotjs&logoColor=FAF7F0" />
+  <img src="https://img.shields.io/badge/Express-3D5AFE?style=for-the-badge&logo=express&logoColor=FAF7F0" />
+  <img src="https://img.shields.io/badge/Supabase-3D5AFE?style=for-the-badge&logo=supabase&logoColor=FAF7F0" />
+  <img src="https://img.shields.io/badge/Firebase-3D5AFE?style=for-the-badge&logo=firebase&logoColor=FAF7F0" />
+</p>
 
-## ▓▓▓ PROJECTS.json ▓▓▓
+**AI / ML**
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FF3EA5?style=for-the-badge&logo=python&logoColor=FAF7F0" />
+  <img src="https://img.shields.io/badge/PyTorch-FF3EA5?style=for-the-badge&logo=pytorch&logoColor=FAF7F0" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FF3EA5?style=for-the-badge&logo=huggingface&logoColor=FAF7F0" />
+  <img src="https://img.shields.io/badge/Google%20Colab-FF3EA5?style=for-the-badge&logo=googlecolab&logoColor=FAF7F0" />
+</p>
 
-<table align="center">
-<tr>
-<td>
+**Hardware & Tools**
 
-**🧠 [DRACO R1](https://github.com/a18-n03/draco-r1)**
-<br>Own AI model — DeepSeek-inspired architecture. In progress, open-sourcing on completion.
-<br><img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FFD700?style=flat-square&labelColor=000000"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00FF85?style=for-the-badge&logo=cplusplus&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/KiCad-00FF85?style=for-the-badge&logo=kicad&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Git-00FF85?style=for-the-badge&logo=git&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Linux-00FF85?style=for-the-badge&logo=linux&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/CSS3-00FF85?style=for-the-badge&logo=css3&logoColor=0D0D0D" />
+</p>
 
-</td>
-<td>
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" height="18" /></p>
 
-**🤖 AI AGENT SKILLS**
-<br>Building skills for AI coding agents — image generation, browsing tools & more.
-<br><img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=flat-square&labelColor=000000"/>
+### 🛠 currently building
 
-</td>
-</tr>
-<tr>
-<td>
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF3EA5)
+> **🧠 [DracoR1](https://github.com/a18-n03/draco-r1)**
+> Personal AI — DeepSeek-R1-Distill-Qwen-7B fine-tuned on a 185-example custom dataset (math, coding, English, Marathi) with Unsloth + QLoRA on a free Colab T4.
+> `PyTorch` `Unsloth` `Hugging Face` `Google Colab`
 
-**☁️ ALTERACLOUD**
-<br><a href="https://alteracloud.space">alteracloud.space</a> — notes & docs hub for college friends.
-<br><img src="https://img.shields.io/badge/STATUS-LIVE-00FF41?style=flat-square&labelColor=000000"/>
+![HARDWARE](https://img.shields.io/badge/HARDWARE-00FF85)
+> **🔩 Custom Mechanical Macropad**
+> A 4×4 hotswap matrix with dual independent rotary encoders, running on a Seeed XIAO nRF52840, switchable between wired and BLE. Schematic → routed PCB → Gerbers exported and heading to fab, with a 3D-printed case underway.
+> `KiCad` `FreeRouting` `Onshape` `Embedded`
 
-</td>
-<td>
+![FULL-STACK](https://img.shields.io/badge/FULL--STACK-FFE900)
+> **🎵 Sonica**
+> A Spotify-inspired music streaming app — React + Vite + TypeScript on the front end, Firebase Auth, Supabase for storage, with self-hosted audio and YouTube IFrame playback.
+> `React` `Supabase` `Firebase`
 
-**📝 LIKHARI AI**
-<br>AI-powered add-on for MS Word, pushed to its full potential.
-<br><img src="https://img.shields.io/badge/STATUS-ACTIVE-FF3131?style=flat-square&labelColor=000000"/>
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" height="18" /></p>
 
-</td>
-</tr>
-</table>
+### 📊 the numbers
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a18-n03&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a18-n03&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a18-n03&theme=github_dark" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a18-n03&bg_color=0D0D0D&color=FFE900&line=FF3EA5&point=00FF41&area=true&hide_border=false&border_color=FFE900" width="100%" />
+</p>
 
-## ▓▓▓ STATS.exe ▓▓▓
+<details>
+<summary><b>🐍 bonus: animated contribution snake</b></summary>
+<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/a18-n03/a18-n03/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+</details>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a18-n03&theme=github_dark" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a18-n03&theme=github_dark" height="170"/>
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" height="18" /></p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a18-n03&theme=github_dark" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a18-n03&theme=github_dark" width="100%"/>
+### 🔗 connect
 
-</div>
+<p align="center">
+  <a href="mailto:anujmhatre125@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF3EA5" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=3D5AFE" /></a>
+  <a href="https://github.com/a18-n03"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FAF7F0" /></a>
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=a18-n03&bg_color=000000&color=FFD700&line=00FF41&point=FF3131&area=true&hide_border=false&border_color=FFD700" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ▓▓▓ SNAKE.gif ▓▓▓
-
-<img src="https://raw.githubusercontent.com/a18-n03/a18-n03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ▓▓▓ CONTACT.sh ▓▓▓
-
-*LinkedIn / portfolio / email — dropping soon*
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:FFD700,50:00FF41,100:000000&height=110&section=footer"/>
-
-**`root@a18-n03:~$`** *building loud, shipping louder.*
-
-</div>
+<p align="center">
+  <img src="./assets/footer.svg" alt="Thanks for scrolling past the hazard tape — now go build something" width="100%" />
+</p>
