@@ -63,10 +63,20 @@ LOGOS = {
     "freebuf": '<path d="M12 3 20 5.8V12c0 5-3.3 8.4-8 10-4.7-1.6-8-5-8-10V5.8Z" fill="#0D0D0D"/><path d="M9.5 8v8M9.5 12h4M12 12v4" stroke="#FFFFFF" stroke-width="1.8" fill="none" stroke-linecap="round"/>',
 }
 
-def player(s, cx, cy, color, label, lx, ly, logo):
+def animated_player(s, cx, cy, color, label, logo, values, keys, label_above=False):
+    ly = cy - 24 if label_above else cy + 26
+    s.append('<g>')
     s.append('<circle cx="%d" cy="%d" r="13" fill="%s" stroke="#0D0D0D" stroke-width="2"/>' % (cx, cy, color))
     s.append('<g transform="translate(%d,%d) scale(0.875)">%s</g>' % (cx - 12, cy - 12, LOGOS[logo]))
-    s.append('<text x="%d" y="%d" text-anchor="middle" font-size="9" fill="#FAF7F0">%s</text>' % (lx, ly, label))
+    s.append('<text x="%d" y="%d" text-anchor="middle" font-size="9" fill="#FAF7F0">%s</text>' % (cx, ly, label))
+    s.append('<animateTransform attributeName="transform" type="translate" values="%s" keyTimes="%s" dur="12s" repeatCount="indefinite"/>' % (values, keys))
+    s.append('</g>')
+
+def ball_segment(s, begin, dur, path):
+    s.append('<circle cx="0" cy="0" r="6" fill="#FAF7F0" stroke="#0D0D0D" stroke-width="1">')
+    s.append('  <animateMotion begin="%ss" dur="%ss" repeatDur="indefinite" fill="freeze" rotate="auto" path="%s"/>' % (begin, dur, path))
+    s.append('  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="%s" dur="12s" repeatCount="indefinite"/>' % ("0;%.4f;%.4f;%.4f;%.4f;1" % (max(begin - 0.12, 0) / 12, max(begin - 0.02, 0) / 12, min(begin + dur + 0.02, 12) / 12, min(begin + dur + 0.12, 12) / 12)))
+    s.append('</circle>')
 
 def main():
     grid = fetch()
@@ -74,30 +84,39 @@ def main():
     draw_goal(s, X0 - 14, Y0 + 20, GRID_H - 40)
     draw_goal(s, X0 + GRID_W + 8, Y0 + 20, GRID_H - 40)
 
-    player(s, X0 + 60, Y0 + GRID_H // 2, "#D97757", "CLAUDE", X0 + 60, Y0 + GRID_H + 26, "claude")
-    player(s, X0 + 120, Y0 + 30, "#00FF41", "CODEX", X0 + 120, Y0 + 16, "codex")
-    player(s, X0 + 200, Y0 + GRID_H - 30, "#FAF7F0", "CURSOR", X0 + 200, Y0 + GRID_H + 26, "cursor")
-    player(s, X0 + 290, Y0 + GRID_H // 2, "#9B59B6", "GEMINI", X0 + 290, Y0 - 24, "gemini")
-
-    player(s, X0 + GRID_W - 60, Y0 + GRID_H // 2, "#FFE900", "OPENCODE", X0 + GRID_W - 60, Y0 + GRID_H + 26, "opencode")
-    player(s, X0 + GRID_W - 130, Y0 + 30, "#3D5AFE", "KILO CODE", X0 + GRID_W - 130, Y0 + 16, "kilo")
-    player(s, X0 + GRID_W - 210, Y0 + GRID_H - 30, "#FF3EA5", "FREEBUF", X0 + GRID_W - 210, Y0 + GRID_H + 26, "freebuf")
-    player(s, X0 + GRID_W - 300, Y0 + GRID_H // 2, "#8b949e", "COPILOT", X0 + GRID_W - 300, Y0 - 24, "copilot")
+    s.append('<line x1="%d" y1="%d" x2="%d" y2="%d" stroke="#FFE900" stroke-opacity="0.25" stroke-width="1"/>' % (X0 + GRID_W // 2, Y0 + 8, X0 + GRID_W // 2, Y0 + GRID_H - 8))
+    s.append('<circle cx="%d" cy="%d" r="26" fill="none" stroke="#FFE900" stroke-opacity="0.25" stroke-width="1"/>' % (X0 + GRID_W // 2, Y0 + GRID_H // 2))
 
     s.append('<text x="%d" y="%d" text-anchor="middle" font-size="11" fill="#FFE900">AI AGENTS FC</text>' % (X0 + 145, Y0 - 30))
     s.append('<text x="%d" y="%d" text-anchor="middle" font-size="11" fill="#FF3EA5">OPENCODE FC</text>' % (X0 + GRID_W - 145, Y0 - 30))
 
-    s.append('<circle cx="0" cy="0" r="6" fill="#FAF7F0" stroke="#0D0D0D" stroke-width="1">')
-    s.append('  <animateMotion dur="5s" repeatCount="indefinite" rotate="auto" path="M %d,%d C %d,%d %d,%d %d,%d C %d,%d %d,%d %d,%d C %d,%d %d,%d %d,%d"/>' % (
-        X0 + GRID_W // 2, Y0 + GRID_H // 2,
-        X0 + GRID_W // 2 + 80, Y0 + 30, X0 + GRID_W // 2 + 160, Y0 + GRID_H - 20, X0 + GRID_W // 2 + 260, Y0 + GRID_H // 2 + 10,
-        X0 + GRID_W // 2 + 330, Y0 + 20, X0 + GRID_W // 2 + 380, Y0 + GRID_H - 10, X0 + GRID_W - 40, Y0 + GRID_H // 2 + 5,
-        X0 + GRID_W // 2 + 420, Y0 + 40, X0 + GRID_W // 2 + 470, Y0 + GRID_H - 30, X0 + GRID_W - 30, Y0 + GRID_H // 2 + 2))
-    s.append('</circle>')
+    animated_player(s, X0 + 230, Y0 + GRID_H - 34, "#D97757", "CLAUDE", "claude",
+                    "0,0;126,-5;126,-5;0,0", "0;0.2;0.45;1")
+    animated_player(s, X0 + 430, Y0 + GRID_H - 42, "#00FF41", "CODEX", "codex",
+                    "0,0;0,0;70,-10;70,-10;0,0", "0;0.25;0.4;0.6;1")
+    animated_player(s, X0 + 60, Y0 + GRID_H - 20, "#FAF7F0", "CURSOR", "cursor",
+                    "0,0;40,-26;40,-26;0,0", "0;0.3;0.55;1")
+    animated_player(s, X0 + 450, Y0 + GRID_H - 42, "#9B59B6", "GEMINI", "gemini",
+                    "0,0;0,0;150,-10;150,-10;250,0;250,0;0,0", "0;0.3;0.38;0.5;0.7;0.9;1")
 
-    s.append('<text x="%d" y="%d" text-anchor="middle" font-size="34" font-weight="bold" fill="#00FF41">GOAL!<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.82;0.94;1" dur="5s" repeatCount="indefinite"/></text>' % (X0 + GRID_W - 70, Y0 + GRID_H // 2 - 40))
+    animated_player(s, X0 + GRID_W - 210, Y0 + GRID_H - 42, "#FF3EA5", "FREEBUF", "freebuf",
+                    "0,0;15,-10;0,0", "0;0.5;1")
+    animated_player(s, X0 + GRID_W - 130, Y0 + GRID_H - 22, "#3D5AFE", "KILO CODE", "kilo",
+                    "0,0;-15,8;0,0", "0;0.6;1")
+    animated_player(s, X0 + GRID_W - 60, Y0 + GRID_H - 42, "#FFE900", "OPENCODE", "opencode",
+                    "0,0;12,-6;0,0", "0;0.7;1")
+    animated_player(s, X0 + GRID_W + 2, Y0 + GRID_H // 2, "#8b949e", "COPILOT", "copilot",
+                    "0,0;0,0;10,-22;0,0", "0;0.72;0.82;1", label_above=True)
 
-    s.append('<text x="16" y="H-14" font-size="10" fill="#8b949e">pitch = your contribution graph // auto-updates daily</text>'.replace("H-14", str(H - 14)))
+    CX, CY = X0 + GRID_W // 2, Y0 + GRID_H // 2
+    ball_segment(s, 0, 2.4, "M %d,%d C %d,%d %d,%d %d,%d" % (CX, CY, CX + 15, CY + 15, CX + 35, CY + 12, X0 + 430, Y0 + GRID_H - 42))
+    ball_segment(s, 2.4, 2.4, "M %d,%d C %d,%d %d,%d %d,%d" % (X0 + 430, Y0 + GRID_H - 42, X0 + 490, Y0 + GRID_H - 60, X0 + 560, Y0 + GRID_H - 62, X0 + 600, Y0 + GRID_H - 42))
+    ball_segment(s, 4.8, 2.4, "M %d,%d C %d,%d %d,%d %d,%d" % (X0 + 600, Y0 + GRID_H - 42, X0 + 650, Y0 + GRID_H - 30, X0 + 700, Y0 + GRID_H - 28, X0 + 700, Y0 + GRID_H - 42))
+    ball_segment(s, 7.2, 2.4, "M %d,%d C %d,%d %d,%d %d,%d" % (X0 + 700, Y0 + GRID_H - 42, X0 + 730, Y0 + GRID_H - 70, X0 + 765, Y0 + GRID_H - 60, X0 + GRID_W + 12, Y0 + GRID_H // 2))
+
+    s.append('<text x="%d" y="%d" text-anchor="middle" font-size="34" font-weight="bold" fill="#00FF41">GOAL!<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.8;0.85;0.96;1" dur="12s" repeatCount="indefinite"/></text>' % (X0 + GRID_W - 70, Y0 + GRID_H // 2 - 40))
+
+    s.append('<text x="16" y="H-14" font-size="10" fill="#8b949e">pitch = your contribution graph // claude -&gt; codex -&gt; gemini -&gt; GOAL // updates daily</text>'.replace("H-14", str(H - 14)))
     s.append('</svg>')
     open("agent-football.svg", "w", encoding="utf-8").write("\n".join(s))
     print("agent-football.svg generated | weeks:", len(grid))
