@@ -8,7 +8,7 @@
 
   <!-- level chip -->
   <rect x="1000" y="28" width="140" height="40" fill="#FFE900"/>
-  <text x="1070" y="54" text-anchor="middle" font-family="'Courier New', monospace" font-size="18" font-weight="800" fill="#0D0D0D" letter-spacing="1">LVL 99</text>
+  <text x="1070" y="54" text-anchor="middle" font-family="'Courier New', monospace" font-size="18" font-weight="800" fill="#0D0D0D" letter-spacing="1">LVL 64</text>
 
   <!-- divider -->
   <rect x="40" y="96" width="1120" height="3" fill="#FAF7F0" fill-opacity="0.25"/>
