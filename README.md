@@ -114,11 +114,12 @@ anuj@navi-mumbai:~$ _
 </p>
 
 <details>
-<summary><b>🐍 bonus: animated contribution snake</b></summary>
+<summary><b>⚽ bonus: AI agents playing football on your contribution graph</b></summary>
 <br />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/a18-n03/a18-n03/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/a18-n03/a18-n03/main/agent-football.svg" alt="AI agents playing football" width="100%" />
 </p>
+<p align="center"><sub><i>claude · codex · cursor · gemini vs opencode · kilo code · freebuf · copilot — updates daily</i></sub></p>
 </details>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" height="18" /></p>
