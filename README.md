@@ -113,15 +113,6 @@ anuj@navi-mumbai:~$ _
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a18-n03&bg_color=0D0D0D&color=FFE900&line=FF3EA5&point=00FF41&area=true&hide_border=false&border_color=FFE900" width="100%" />
 </p>
 
-<details>
-<summary><b>⚽ bonus: AI agents playing football on your contribution graph</b></summary>
-<br />
-<p align="center">
-  <img src="https://raw.githubusercontent.com/a18-n03/a18-n03/main/agent-football.svg" alt="AI agents playing football" width="100%" />
-</p>
-<p align="center"><sub><i>claude · codex · cursor · gemini vs opencode · kilo code · freebuf · copilot — updates daily</i></sub></p>
-</details>
-
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" height="18" /></p>
 
 ### 🔗 connect

@@ -1,0 +1,1 @@
+{"query":"query{user(login:\"a18-n03\"){contributionsCollection(from:\"2025-08-16T00:00:00Z\",to:\"2026-08-16T00:00:00Z\"){contributionCalendar{weeks{contributionDays{contributionCount color}}}}}}"}
