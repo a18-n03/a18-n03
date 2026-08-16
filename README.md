@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&weight=800&size=28&pause=900&color=00FF41&background=0D0D0DFF&center=true&vCenter=true&width=700&height=60&lines=%24+whoami+%2F%2F+Anuj+Mhatre;BTech+CSE+(AI+%26+ML)+%40+CSMU;Fine-Tuning+LLMs+on+Colab" alt="Anuj Mhatre typing" />
+  <img src="./assets/ascii-name.svg" alt="Anuj Mhatre — ASCII banner" width="100%" />
 </p>
 
 <p align="center">

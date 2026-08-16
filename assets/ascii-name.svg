@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" font-family="Courier New, monospace">
+<rect x="0" y="0" width="900" height="150" fill="#0D0D0D"/>
+<text x="14" y="26" font-size="16" fill="#FFE900">anuj@navi-mumbai:~$<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.08;0.2;0.9;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="228" y="26" font-size="16" fill="#FAF7F0">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
+<text x="14" y="46" font-size="16" fill="#00FF41">    _      _   _    _   _         _     __  __    _   _      _      _____   ____    _____ <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.22;0.32;0.9;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="14" y="64" font-size="16" fill="#00FF41">   / \      | \ | |   | | | |      | |   |  \/  |   | | | |    / \      |_   _|   |  _ \   | ____| <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.34;0.44;0.9;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="14" y="82" font-size="16" fill="#00FF41">  / _ \     |  \| |   | | | |      | |   | |\/| |   | |_| |   / _ \      | |    | |_) |   |  _|   <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.46;0.56;0.9;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="14" y="100" font-size="16" fill="#00FF41"> / ___ \    | |\  |   | |_| |    _  | |   | |  | |   |  _  |   / ___ \     | |    |  _ &lt;   | |___  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.58;0.68;0.9;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="14" y="118" font-size="16" fill="#00FF41">/_/   \_\  |_| \_|    \___/   |_| |_|   |_|  |_|   |_| |_|  /_/   \_\    |_|    |_| \_\   |_____| <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.7;0.8;0.9;1" dur="8s" repeatCount="indefinite"/></text>
+</svg>
