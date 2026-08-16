@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Anuj Mhatre — Full-Stack Developer & AI/ML Engineer" width="100%" />
+  <img src="./assets/profile.gif" alt="Anuj Mhatre — Full-Stack Developer & AI/ML Engineer" width="100%" />
 </p>
 
 <p align="center">
