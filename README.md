@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ascii-name.svg" alt="Anuj Mhatre — ASCII banner" width="100%" />
+  <img src="./assets/ascii-text.svg" alt="Anuj Mhatre — ASCII banner" width="100%" />
 </p>
 
 <p align="center">
