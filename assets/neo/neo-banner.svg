@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="880" height="230" viewBox="0 0 880 230">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="background:#F6EEDD;width:100%;height:100%;box-sizing:border-box;padding:20px 26px;font-family:Arial,sans-serif;">
+      <div style="display:flex;flex-direction:column;align-items:center;text-align:center;">
+        <div style="background:#F2A93B;color:#000;border:3px solid #000;border-radius:22px;box-shadow:6px 6px 0 #000;transform:rotate(-1.5deg);display:inline-block;padding:10px 42px;margin-bottom:18px;">
+          <span style="font-family:'Arial Black',Arial,sans-serif;font-size:54px;font-weight:900;letter-spacing:3px;text-transform:uppercase;">ANUJ&#160;MHATRE</span>
+        </div>
+        <div style="background:#000;color:#F2A93B;border:3px solid #000;border-radius:14px;box-shadow:4px 4px 0 #F2A93B;display:inline-block;padding:8px 26px;">
+          <span style="font-family:'Courier New',monospace;font-size:18px;font-weight:bold;letter-spacing:1px;">AI&#160;&amp;&#160;ML&#160;DEVELOPER&#160;_</span>
+        </div>
+        <div style="margin-top:14px;font-family:'Courier New',monospace;font-size:13px;letter-spacing:1px;border:2px dashed #000;border-radius:10px;padding:6px 16px;color:#000;">// build · ship · repeat — from Navi Mumbai</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

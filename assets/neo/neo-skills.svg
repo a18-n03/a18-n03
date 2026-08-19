@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="880" height="400" viewBox="0 0 880 400">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="background:#F6EEDD;width:100%;height:100%;box-sizing:border-box;padding:22px;font-family:Arial,sans-serif;">
+      <div style="background:#FDF8EC;border:3px solid #000;border-radius:16px;box-shadow:6px 6px 0 #000;overflow:hidden;">
+        <div style="background:#000;padding:12px 16px;display:flex;align-items:center;gap:8px;border-bottom:3px solid #000;">
+          <span style="width:12px;height:12px;border-radius:50%;background:#FD6A5A;border:2px solid #000;display:inline-block;"></span>
+          <span style="width:12px;height:12px;border-radius:50%;background:#F2A93B;border:2px solid #000;display:inline-block;"></span>
+          <span style="width:12px;height:12px;border-radius:50%;background:#B6E388;border:2px solid #000;display:inline-block;"></span>
+          <span style="font-family:'Courier New',monospace;font-size:12px;color:#F6EEDD;letter-spacing:1px;margin-left:8px;">the stack</span>
+        </div>
+        <div style="padding:20px 22px;">
+          <div style="margin-bottom:16px;">
+            <div style="display:inline-block;background:#F2A93B;border:2px solid #000;border-radius:8px;box-shadow:2px 2px 0 #000;font-family:'Arial Black',Arial,sans-serif;font-size:13px;padding:4px 12px;margin-bottom:10px;text-transform:uppercase;">Frontend</div>
+            <div>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">REACT</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">VITE</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">TYPESCRIPT</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">JAVASCRIPT</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">HTML</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">CSS3</span>
+            </div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:inline-block;background:#9DB8E8;border:2px solid #000;border-radius:8px;box-shadow:2px 2px 0 #000;font-family:'Arial Black',Arial,sans-serif;font-size:13px;padding:4px 12px;margin-bottom:10px;text-transform:uppercase;">Backend &amp; Cloud</div>
+            <div>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">NODE.JS</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">EXPRESS</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">SUPABASE</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">FIREBASE</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">GIT</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">LINUX</span>
+            </div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:inline-block;background:#FD6A5A;border:2px solid #000;border-radius:8px;box-shadow:2px 2px 0 #000;font-family:'Arial Black',Arial,sans-serif;font-size:13px;padding:4px 12px;margin-bottom:10px;text-transform:uppercase;">AI / ML</div>
+            <div>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">PYTHON</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">PYTORCH</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">UNSLOTH</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">HUGGING FACE</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">COLAB</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">LLM FINE-TUNING</span>
+            </div>
+          </div>
+          <div>
+            <div style="display:inline-block;background:#B6E388;border:2px solid #000;border-radius:8px;box-shadow:2px 2px 0 #000;font-family:'Arial Black',Arial,sans-serif;font-size:13px;padding:4px 12px;margin-bottom:10px;text-transform:uppercase;">Hardware</div>
+            <div>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">C++</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">KICAD</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">ONSHAPE</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">ESP32 / NRF52</span>
+              <span style="display:inline-block;background:#FDF8EC;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 0 #000;font-family:'Courier New',monospace;font-size:13px;font-weight:bold;padding:5px 12px;margin:0 6px 8px 0;">BLUETOOTH</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

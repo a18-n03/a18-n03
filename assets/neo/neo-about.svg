@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="880" height="330" viewBox="0 0 880 330">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="background:#F6EEDD;width:100%;height:100%;box-sizing:border-box;padding:22px;font-family:Arial,sans-serif;">
+      <div style="background:#FDF8EC;border:3px solid #000;border-radius:16px;box-shadow:6px 6px 0 #000;overflow:hidden;">
+        <div style="background:#000;padding:12px 16px;display:flex;align-items:center;gap:8px;border-bottom:3px solid #000;">
+          <span style="width:12px;height:12px;border-radius:50%;background:#FD6A5A;border:2px solid #000;display:inline-block;"></span>
+          <span style="width:12px;height:12px;border-radius:50%;background:#F2A93B;border:2px solid #000;display:inline-block;"></span>
+          <span style="width:12px;height:12px;border-radius:50%;background:#B6E388;border:2px solid #000;display:inline-block;"></span>
+          <span style="font-family:'Courier New',monospace;font-size:12px;color:#F6EEDD;letter-spacing:1px;margin-left:8px;">anuj@navi-mumbai: ~/profile</span>
+        </div>
+        <div style="padding:20px 22px;font-family:'Courier New',monospace;font-size:14.5px;font-weight:bold;color:#000;line-height:1.9;">
+          <div><span style="color:#FD6A5A;display:inline-block;width:14px;height:14px;border:2px solid #000;background:#FD6A5A;margin-right:10px;"></span> BTech CSE (AI &amp; ML) @ CSMU — 2nd year</div>
+          <div><span style="color:#F2A93B;display:inline-block;width:14px;height:14px;border:2px solid #000;background:#F2A93B;margin-right:10px;"></span> Fine-tuning LLMs · building a personal AI (DracoR1)</div>
+          <div><span style="color:#F4A8D0;display:inline-block;width:14px;height:14px;border:2px solid #000;background:#F4A8D0;margin-right:10px;"></span> Learning: LLM fine-tuning · PCB design</div>
+          <div><span style="color:#B6E388;display:inline-block;width:14px;height:14px;border:2px solid #000;background:#B6E388;margin-right:10px;"></span> One Piece fan · BGMI · Minecraft mods</div>
+          <div><span style="color:#FD6A5A;display:inline-block;width:14px;height:14px;border:2px solid #000;background:#FD6A5A;margin-right:10px;"></span> Current quest: DracoR1 v2 + macropad fab</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
